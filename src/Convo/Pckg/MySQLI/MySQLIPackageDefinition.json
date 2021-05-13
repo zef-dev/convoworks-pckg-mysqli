@@ -2,7 +2,7 @@
     "namespace": "convo-mysqli",
     "author": "ZEF Development",
     "email": "mark@zefdev.com",
-    "source_for": [],
+    "source_for": ["components"],
     "description": "Interact with MySQLi databases.",
     "stability": "experimental"
 }
