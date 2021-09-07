@@ -95,7 +95,7 @@ class MySQLIPackageDefinition extends AbstractPackageDefinition
                     'name' => array(
                         'editor_type' => 'text',
                         'editor_properties' => array(),
-                        'defaultValue' => '',
+                        'defaultValue' => 'status',
                         'name' => 'Result name',
                         'description' => 'Name under which to save the result in parameters',
                         'valueType' => 'string'
